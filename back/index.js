@@ -2,7 +2,7 @@
 //Coneccion con mongodb
 const connectionString = "mongodb+srv://guayerd:guayerd.2020@cluster0.jufx9.mongodb.net/Guayerd_Bikes?retryWrites=true&w=majority"
 //Puerto
-const PORT = "4200"
+const PORT = "4200";
 //Importo el modelo
 const Usuario = require('./Model/Usuario')
 const Banner = require('./Model/Banner')
